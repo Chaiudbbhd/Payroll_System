@@ -46,7 +46,7 @@
 <!-- ------ -->
 
 ## 🖍 About
-- The <b>"Employee Payroll Management System"</b> by Emman P. Barrameda is my practice project based on Java Swing, developed during the Covid lockdown in May 2020. This system was created to enhance my knowledge in desktop development as a Desktop Developer. It consists of an installer, a main application and an embedded SQLite database. Furthermore, this project is open for further development and improvements. I hope you appreciate this project, and if you have any questions, please feel free to [contact me](#get-in-touch).
+- The <b>"Employee Payroll Management System"</b> by Ganteda Laskhmi Prasanna Kumar is my practice project based on Java Swing, developed during my free time in Jan 2025. This system was created to enhance my knowledge in desktop development as a Desktop Developer. It consists of an installer, a main application and an embedded SQLite database. Furthermore, this project is open for further development and improvements. I hope you appreciate this project, and if you have any questions, please feel free to [contact me](#get-in-touch).
 
 <br>
 
@@ -219,23 +219,26 @@ In short, the MIT License states:
 <!-- Social -->
 <table width="100%" align="center">
   <tr>
-    <td align="center">
+    <td align="center" width="40%">
       <a href="https://lpk2005.netlify.app/">
         <strong>Visit My Portfolio</strong>
         <br />
-        <img src="https://i.ibb.co/QFBkDLmb/chaitu.jpg" alt="Profile Image" width="180" style="border-radius: 50%;" />
+        <img src="https://i.ibb.co/QFBkDLmb/chaitu.jpg" alt="Profile Image" width="165" style="border-radius: 50%;" />
       </a>
       <br />
       <p>Check out <a href="https://lpk2005.netlify.app/" target="_blank">my portfolio</a> to learn more about me!</p>
-      <a href="https://github.com/Chaiudbbhd" target="_blank"><img src="https://i.ibb.co/QFBkDLmb/chaitu.jpg.svg?style=social&label=Follow on GitHub&maxAge=2592000" alt="GitHub Followers" /></a>
+      <a href="https://github.com/Chaiudbbhd" target="_blank">
+        <img src="https://img.shields.io/github/followers/Chaiudbbhd?style=social" alt="GitHub Followers" />
+      </a>
     </td>
-    <td align="center">
+    <td align="center" width="60%">
       <a href="https://lpk2005.netlify.app/">
-        <img src="https://i.ibb.co/wFP4QhBk/G-Lakshmi-Prasanna-Kumar.png" alt="Cover Image"/>
+        <img src="https://i.ibb.co/wFP4QhBk/G-Lakshmi-Prasanna-Kumar.png" alt="Cover Image" width="80%"/>
       </a>
     </td>
   </tr>
 </table>
+
 
 
 <p align="center">
