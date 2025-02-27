@@ -1,8 +1,8 @@
 
-<h1 align='center'> EMPLOYEE PAYROLL MANAGEMENT SYSTEM </h1>
+<h1 align='center'> PAYROLL MANAGEMENT SYSTEM </h1>
 
 <!-- tag line -->
-<h3 align='center'> Employee Payroll Management System<br> using Java Swing GUI (CODE) </h3>
+<h3 align='center'> Payroll Management System<br> using Java Swing GUI (CODE) </h3>
 
 
 <!-- personal badges -------------------------------------->
@@ -46,7 +46,7 @@
 <!-- ------ -->
 
 ## 🖍 About
-- The <b>"Employee Payroll Management System"</b> by Ganteda Laskhmi Prasanna Kumar is my practice project based on Java Swing, developed during my free time in Jan 2025. This system was created to enhance my knowledge in desktop development as a Desktop Developer. It consists of an installer, a main application and an embedded SQLite database. Furthermore, this project is open for further development and improvements. I hope you appreciate this project, and if you have any questions, please feel free to [contact me](#get-in-touch).
+- The <b>"Payroll Management System"</b> by Ganteda Laskhmi Prasanna Kumar is my practice project based on Java Swing, developed during my free time in Jan 2025. This system was created to enhance my knowledge in desktop development as a Desktop Developer. It consists of an installer, a main application and an embedded SQLite database. Furthermore, this project is open for further development and improvements. I hope you appreciate this project, and if you have any questions, please feel free to [contact me](#get-in-touch).
 
 <br>
 
