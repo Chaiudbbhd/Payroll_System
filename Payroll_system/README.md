@@ -231,7 +231,7 @@ In short, the MIT License states:
     </td>
     <td align="center">
       <a href="https://lpk2005.netlify.app/">
-        <img src="https://i.imgur.com/x3FW8OJ.png" alt="Cover Image"/>
+        <img src="https://i.ibb.co/wFP4QhBk/G-Lakshmi-Prasanna-Kumar.png" alt="Cover Image"/>
       </a>
     </td>
   </tr>
