@@ -1,11 +1,10 @@
-// ©  M A D E		B Y		E M M A N		B A R R A M E D A  © //
-
+ //made by lakshmi prasanna kumar//
 package JFileChooser_Locations_API;
 import java.util.prefs.Preferences;
 
 /**
  *
- * @author EMMANUEL PEÑAFLORIDA BARRAMEDA
+ * @author lakshmi prasanna kumar
  */
 public enum FileLastLocation2 {
   FileLocation;
