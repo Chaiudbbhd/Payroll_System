@@ -4,7 +4,7 @@ import java.util.prefs.Preferences;
 
 /**
  *
- * @author EMMANUEL PEÑAFLORIDA BARRAMEDA
+ * @author lakshmi prasanna kumar
  */
 public enum FileLastLocation1 {
   FileLocation;
