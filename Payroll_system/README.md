@@ -220,17 +220,17 @@ In short, the MIT License states:
 <table width="100%" align="center">
   <tr>
     <td align="center">
-      <a href="https://emmanpbarrameda.github.io">
+      <a href="https://lpk2005.netlify.app/">
         <strong>Visit My Portfolio</strong>
         <br />
-        <img src="https://avatars.githubusercontent.com/u/67356375?v=4" alt="Profile Image" width="180" style="border-radius: 50%;" />
+        <img src="https://ibb.co/3yXvR2hr" alt="Profile Image" width="180" style="border-radius: 50%;" />
       </a>
       <br />
-      <p>Check out <a href="https://emmanpbarrameda.github.io" target="_blank">my portfolio</a> to learn more about me!</p>
-      <a href="https://github.com/emmanpbarrameda" target="_blank"><img src="https://img.shields.io/github/followers/emmanpbarrameda.svg?style=social&label=Follow on GitHub&maxAge=2592000" alt="GitHub Followers" /></a>
+      <p>Check out <a href="https://lpk2005.netlify.app/" target="_blank">my portfolio</a> to learn more about me!</p>
+      <a href="https://github.com/Chaiudbbhd" target="_blank"><img src="https://ibb.co/3yXvR2hr.svg?style=social&label=Follow on GitHub&maxAge=2592000" alt="GitHub Followers" /></a>
     </td>
     <td align="center">
-      <a href="https://emmanpbarrameda.github.io">
+      <a href="https://lpk2005.netlify.app/">
         <img src="https://i.imgur.com/x3FW8OJ.png" alt="Cover Image"/>
       </a>
     </td>
