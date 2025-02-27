@@ -1,4 +1,4 @@
-// ©  M A D E		B Y		E M M A N		B A R R A M E D A  © //
+ //made by lakshmi prasanna kumar//
 
 package ImageBrowse_JFileChooser_API;
 import java.awt.Color;
@@ -19,7 +19,7 @@ import javax.swing.JFileChooser;
 
 /**
  *
- * @author EMMANUEL PEÑAFLORIDA BARRAMEDA
+ * @author lakshmi prasanna kumar
  */
 public class ImageBrowsePreview_CLASS_API extends JComponent implements PropertyChangeListener {
    // Dimensions of image preview's preferred size.
