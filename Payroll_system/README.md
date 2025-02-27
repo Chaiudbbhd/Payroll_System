@@ -165,10 +165,6 @@ In short, the MIT License states:
 <!-- ------ -->
 
 
-## ⚙️ **Download Source Code (for Java Developers)**
-- <b>Download Java Source Code [here](https://github.com/emmanpbarrameda/EmployeePayrollManagementSystem_Java-CODE/archive/refs/heads/main.zip) </b>
-<br><i>Note: Make sure to Install the Required softwares on [Depencies](#%EF%B8%8F-dependencies-for-java-developers).</i>
-
 - <b>NOTE For Developers: </b>
 -- The <b>SQLite database</b> of this application is <b>embedded within the application itself</b>. It is <b>located</b> at the <i>path /src/SystemDB/database.sqlite</i>. You can <b>configure</b> the database using [SQLite Browser](https://github.com/sqlitebrowser/sqlitebrowser/releases).
 
