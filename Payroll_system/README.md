@@ -223,11 +223,11 @@ In short, the MIT License states:
       <a href="https://lpk2005.netlify.app/">
         <strong>Visit My Portfolio</strong>
         <br />
-        <img src="https://ibb.co/3yXvR2hr" alt="Profile Image" width="180" style="border-radius: 50%;" />
+        <img src="https://i.ibb.co/QFBkDLmb/chaitu.jpg" alt="Profile Image" width="180" style="border-radius: 50%;" />
       </a>
       <br />
       <p>Check out <a href="https://lpk2005.netlify.app/" target="_blank">my portfolio</a> to learn more about me!</p>
-      <a href="https://github.com/Chaiudbbhd" target="_blank"><img src="https://ibb.co/3yXvR2hr.svg?style=social&label=Follow on GitHub&maxAge=2592000" alt="GitHub Followers" /></a>
+      <a href="https://github.com/Chaiudbbhd" target="_blank"><img src="https://i.ibb.co/QFBkDLmb/chaitu.jpg.svg?style=social&label=Follow on GitHub&maxAge=2592000" alt="GitHub Followers" /></a>
     </td>
     <td align="center">
       <a href="https://lpk2005.netlify.app/">
