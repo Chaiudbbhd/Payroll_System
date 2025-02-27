@@ -1,5 +1,4 @@
-// ©  M A D E		B Y		E M M A N		B A R R A M E D A  © //
-
+ //made by lakshmi prasanna kumar//
 package Panels;
 
 import JFileChooser_Locations_API.FileLastLocation3;
@@ -45,7 +44,7 @@ import org.apache.poi.ss.usermodel.Row;
 
 /**
  *
- * @author EMMANUEL PEÑAFLORIDA BARRAMEDA
+ * @author lakshmi prasanna kumar
  */
 public final class AdminMenusPanel extends javax.swing.JPanel {
     //for Database Connection Variable
