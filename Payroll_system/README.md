@@ -133,7 +133,7 @@ This project is licensed under MIT License. [![License](https://img.shields.io/b
 ```txt
 MIT License
 
-Copyright (c) 2023 EMMANPBARRAMEDA
+Copyright (c) 2025 Ganteda Lakshmi Prasanna Kumar
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -201,7 +201,10 @@ In short, the MIT License states:
 ## :thumbsup: **If you want to say thank you and/or support the project:**
 1. Add a GitHub :star2:Star to the project.
 2. Tweet about the project on your [![Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-3. Support the project by donating via  [![Badge](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/emmanpbarrameda)
+3. Support the project by donating via ### Support the Project  
+[![PhonePe](https://img.shields.io/badge/PhonePe-5604D2?style=for-the-badge&logo=phonepe&logoColor=white)](https://phonepe.com/pay?pa=8328007804@ybl&pn=GANTEDA%20LAKSHMI%20PRASANNA%20KUMAR)
+
+
 <br>
 <br>
 
