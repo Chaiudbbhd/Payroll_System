@@ -6,7 +6,7 @@ import java.io.File;
 
 /**
  *
- * @author EMMANUEL PEÑAFLORIDA BARRAMEDA
+ * @author  lakshmi prasanna kumar
  */
 public class FLL_Sample {
     public static void main(String[] args) {
