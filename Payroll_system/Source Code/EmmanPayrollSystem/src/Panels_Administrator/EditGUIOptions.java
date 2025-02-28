@@ -1,4 +1,4 @@
-// ©  M A D E		B Y		E M M A N		B A R R A M E D A  © //
+// made by lakshmi prasanna kumar//
 package Panels_Administrator;
 
 import Panels_EmployeeManager.*;
@@ -40,7 +40,7 @@ import javax.swing.text.DocumentFilter;
 
 /**
  *
- * @author EMMANUEL PEÑAFLORIDA BARRAMEDA
+ * @author lakshmi prasanna kumar
  */
 public final class EditGUIOptions extends javax.swing.JDialog {
 
