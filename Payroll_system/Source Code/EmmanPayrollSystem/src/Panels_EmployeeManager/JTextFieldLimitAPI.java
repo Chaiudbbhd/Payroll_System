@@ -1,5 +1,4 @@
-// ©  M A D E		B Y		E M M A N		B A R R A M E D A  © //
-
+//made by lakshmi prasanna kumar//
 package Panels_EmployeeManager;
 import javax.swing.text.AttributeSet;
 import javax.swing.text.BadLocationException;
@@ -7,7 +6,7 @@ import javax.swing.text.PlainDocument;
 
 /**
  *
- * @author EMMANUEL PEÑAFLORIDA BARRAMEDA
+ * @author  lakshmi prasanna kumar
  */
 public class JTextFieldLimitAPI extends PlainDocument {
    final public int limit;
