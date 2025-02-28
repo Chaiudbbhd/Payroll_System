@@ -64,7 +64,7 @@ import javax.swing.JProgressBar;
 
 /**
  *
- * @author EMMANUEL PEÑAFLORIDA BARRAMEDA
+ * @author  lakshmi prasanna kumar
  */
 public final class MainNavigationHomePanel_S_ADMIN extends javax.swing.JFrame {
 
