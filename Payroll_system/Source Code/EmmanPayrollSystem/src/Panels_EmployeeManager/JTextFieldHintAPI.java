@@ -1,5 +1,5 @@
-// ©  M A D E		B Y		E M M A N		B A R R A M E D A  © //
 
+//made by lakshmi prasanna kumar//
 package Panels_EmployeeManager;
 import java.awt.Color;  
 import java.awt.Graphics;  
@@ -10,7 +10,7 @@ import javax.swing.text.JTextComponent;
 
 /**
  *
- * @author EMMANUEL PEÑAFLORIDA BARRAMEDA
+ * @author lakshmi prasanna kumar
  */
 public class JTextFieldHintAPI extends BasicTextFieldUI implements FocusListener {  
     public final String hint;
