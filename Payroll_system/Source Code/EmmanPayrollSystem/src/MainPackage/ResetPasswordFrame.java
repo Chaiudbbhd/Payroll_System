@@ -44,7 +44,7 @@ import javax.swing.border.MatteBorder;
 
 /**
  *
- * @author EMMANUEL PEÑAFLORIDA BARRAMEDA
+ * @author Lakshmi Prasanna Kumar
  */
 public final class ResetPasswordFrame extends javax.swing.JFrame {
     Connection conn;
