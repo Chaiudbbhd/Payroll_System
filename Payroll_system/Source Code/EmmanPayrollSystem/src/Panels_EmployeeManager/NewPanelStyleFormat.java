@@ -1,4 +1,4 @@
-// ©  M A D E		B Y		E M M A N		B A R R A M E D A  © //
+//made by lakshmi prasanna kumar//
 
 package Panels_EmployeeManager;
 
@@ -30,7 +30,7 @@ import javax.swing.KeyStroke;
 
 /**
  *
- * @author EMMANUEL PEÑAFLORIDA BARRAMEDA
+ * @author  lakshmi prasanna kumar
  */
 public final class NewPanelStyleFormat extends javax.swing.JDialog {
     Connection conn;
