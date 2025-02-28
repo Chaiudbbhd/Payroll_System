@@ -10,7 +10,7 @@ import javax.swing.text.JTextComponent;
 
 /**
  *
- * @author EMMANUEL PEÑAFLORIDA BARRAMEDA
+ * @author  lakshmi prasanna kumar
  */
 public class JTextFieldHintAPI extends BasicTextFieldUI implements FocusListener {  
     private final String hint;
