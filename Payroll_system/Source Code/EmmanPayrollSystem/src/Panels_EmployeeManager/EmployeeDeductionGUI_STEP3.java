@@ -1,4 +1,4 @@
-// ©  M A D E		B Y		E M M A N		B A R R A M E D A  © //
+//made by lakshmi prasanna kumar//
 
 package Panels_EmployeeManager;
 
@@ -38,7 +38,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author EMMANUEL PEÑAFLORIDA BARRAMEDA
+ * @author  lakshmi prasanna kumar
  */
 public final class EmployeeDeductionGUI_STEP3 extends javax.swing.JDialog {
     Connection conn;
