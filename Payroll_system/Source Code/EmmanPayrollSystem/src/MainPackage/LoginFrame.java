@@ -47,7 +47,7 @@ import javax.swing.border.MatteBorder;
 
 /**
  *
- * @author EMMANUEL PEÑAFLORIDA BARRAMEDA
+ * @author  lakshmi prasanna kumar
  */
 public final class LoginFrame extends javax.swing.JFrame {
 
