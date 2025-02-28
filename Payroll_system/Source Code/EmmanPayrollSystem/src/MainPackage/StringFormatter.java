@@ -3,7 +3,7 @@ package MainPackage;
 
 /**
  *
- * @author EMMANUEL PEÑAFLORIDA BARRAMEDA
+ * @author G. Lakshmi Prasanna kumar
  */
 public class StringFormatter {
     public static String capitalizeWord(String str) {
