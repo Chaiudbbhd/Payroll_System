@@ -1,4 +1,4 @@
-// ©  M A D E		B Y		E M M A N		B A R R A M E D A  © //
+//made by lakshmi prasanna kumar//
 
 package SystemDB;
 import java.awt.BorderLayout;
@@ -14,7 +14,7 @@ import org.sqlite.*;
 
 /**
  *
- * @author EMMANUEL PEÑAFLORIDA BARRAMEDA
+ * @author  lakshmi prasanna kumar
  */
 public class DBconnection {
     Connection conn;
