@@ -1,4 +1,4 @@
-// ©  M A D E		B Y		E M M A N		B A R R A M E D A  © //
+//made by lakshmi prasanna kumar//
 
 package SplashPackage;
 
@@ -7,7 +7,7 @@ import java.sql.SQLException;
 
 /**
  *
- * @author EMMANUEL PEÑAFLORIDA BARRAMEDA
+ * @author lakshmi prasanna kumar
  */
 public class splashStartClass {
 
