@@ -7,7 +7,7 @@ import java.awt.event.*;
 
 /**
  *
- * @author EMMANUEL PEÑAFLORIDA BARRAMEDA
+ * @author lakshmi prasanna kumar
  */
 class ToastDriverSample extends JFrame implements ActionListener { 
   
