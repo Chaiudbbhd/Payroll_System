@@ -30,7 +30,7 @@ import javax.swing.KeyStroke;
 
 /**
  *
- * @author EMMANUEL PEÑAFLORIDA BARRAMEDA
+ * @author  lakshmi prasanna kumar
  */
 public final class AboutSystem extends javax.swing.JDialog {
     Connection conn;
