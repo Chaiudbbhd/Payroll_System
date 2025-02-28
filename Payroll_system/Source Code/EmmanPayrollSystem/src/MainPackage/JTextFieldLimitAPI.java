@@ -6,7 +6,7 @@ import javax.swing.text.PlainDocument;
 
 /**
  *
- * @author EMMANUEL PEÑAFLORIDA BARRAMEDA
+ * @author  lakshmi prasanna kumar
  */
 public class JTextFieldLimitAPI extends PlainDocument {
    final private int limit;
