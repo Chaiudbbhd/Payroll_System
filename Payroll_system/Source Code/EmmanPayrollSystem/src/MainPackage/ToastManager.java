@@ -6,7 +6,7 @@ import javax.swing.*;
 
 /**
  *
- * @author EMMANUEL PEÑAFLORIDA BARRAMEDA
+ * @author lakshmi prasanna kumarDA
  */
 public final class ToastManager extends JFrame { 
   
