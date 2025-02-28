@@ -7,7 +7,7 @@ import javax.swing.text.DocumentFilter;
 
 /**
  *
- * @author EMMANUEL PEÑAFLORIDA BARRAMEDA
+ * @author lakshmi prasanna kumar
  */
 public class NoSpacingCharacter extends DocumentFilter {
 
