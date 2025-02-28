@@ -1,11 +1,11 @@
-// ©  M A D E		B Y		E M M A N		B A R R A M E D A  © //
 
+//made by lakshmi prasanna kumar//
 package Panels_EmployeeManager;
 import java.util.*;
 
 /**
  *
- * @author EMMANUEL PEÑAFLORIDA BARRAMEDA
+ * @author made by lakshmi prasanna kumar
  */
 public class Exercise58 {
      public static void main(String[] args){
