@@ -1,5 +1,4 @@
-// ©  M A D E		B Y		E M M A N		B A R R A M E D A  © //
-
+//made by lakshmi prasanna kumar//
 package UppercaseTypeFilterPackage;
 
 import javax.swing.text.AttributeSet;
@@ -8,7 +7,7 @@ import javax.swing.text.DocumentFilter;
 
 /**
  *
- * @author EMMANUEL PEÑAFLORIDA BARRAMEDA
+ * @author lakshmi prasanna kumar
  */
 public class UppercaseDocumentFilter_API extends DocumentFilter {
 
