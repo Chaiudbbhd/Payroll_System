@@ -1,4 +1,4 @@
-// ©  M A D E		B Y		E M M A N		B A R R A M E D A  © //
+// made by lakshmi prasanna kumar//
 
 package Panels_Administrator;
 
@@ -33,7 +33,7 @@ import net.proteanit.sql.DbUtils;
 
 /**
  *
- * @author EMMANUEL PEÑAFLORIDA BARRAMEDA
+ * @author  lakshmi prasanna kumar
  */
 public final class AuditSystemGUI extends javax.swing.JDialog {
     Connection conn;
