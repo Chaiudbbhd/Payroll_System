@@ -28,41 +28,6 @@ public class DBconnection {
             SQLiteDataSource urlsql = new SQLiteDataSource();
             urlsql.setUrl("jdbc:sqlite::resource:"+DBconnection.class.getResource("/SystemDB/database.sqlite").toString());
             conn = urlsql.getConnection();
-            
-            //get db from system
-            //String url = "jdbc:sqlite:C:\\Payroll Management System\\database\\dbpayroll.sqlite";
-            //conn=DriverManager.getConnection(url);
-            
-            //JOptionPane.showOptionDialog(null, "Hello","Empty?", JOptionPane.DEFAULT_OPTION,JOptionPane.INFORMATION_MESSAGE, null, new Object[]{}, null);
-            //ImageIcon iconofJOP = new ImageIcon("");
-            /*final JOptionPane optionPane = new JOptionPane("<html><center>Connecting to the Server...<br/>Please wait PATIENTLY!</center><html>", JOptionPane.WARNING_MESSAGE, JOptionPane.DEFAULT_OPTION, null, new Object[]{}, null);
-            final JDialog dialog = new JDialog();
-            dialog.setTitle("VMIS | Enrollment System");
-            dialog.setModal(true);
-            dialog.setContentPane(optionPane);
-            dialog.setDefaultCloseOperation(JDialog.DO_NOTHING_ON_CLOSE);
-            dialog.pack();
-            Image imageloadingtop;
-            imageloadingtop = ImageIO.read(getClass().getResource("/projecticon/wait_16px.png"));
-            dialog.setIconImage(imageloadingtop); //set icon to dialog
-            dialog.setLocationRelativeTo(null); //center the dialog
-            //dialog.setSize(200,200);
-            //setLocation((Toolkit.getDefaultToolkit().getScreenSize().width)/2 - getWidth()/2, (Toolkit.getDefaultToolkit().getScreenSize().height)/2 - getHeight()/2);
-    
-            // Set a timer
-            new Thread(new Runnable() {
-            @Override
-            public void run() {
-            try {
-                Thread.sleep(1500);
-            } catch (InterruptedException e) {
-            }
-            dialog.dispose();
-            }
-            }).start();
-            //dialog.setVisible(true);
-            
-            *///JOptionPane.showMessageDialog(null,"Connected Successfully!","VMIS | Enrollment System",JOptionPane.INFORMATION_MESSAGE,null);
        
             } catch (ClassNotFoundException | SQLException e) {
                 final JProgressBar progressBar1 = new JProgressBar();
