@@ -161,34 +161,7 @@ public final class AdminMenusPanel extends javax.swing.JPanel {
         //mainAppNameString = mainAppNameFromDB;
     }
  
-    /*
-    public void plswaitLoading() {
-            new Thread(() -> {
-                try {
-                    for (int loading = 1; loading <=100; loading++) {
-                        Thread.sleep(25);
-                        main.consoleLoading.setValue(loading);
-                        main.consoleLoading.setStringPainted(true);
-                        main.consoleLoading.setMinimum(1);
-                        main.consoleLoading.setMaximum(100);
-                        main.consoleLoading.setVisible(true);
-                        main.consoleLoading.setIndeterminate(true);
-                        main.consoleLoading.setStringPainted(false);
-                        main.consoleText.setVisible(true);
-                        main.consoleText.setText("<html>Please wait...</html>");
-                    }
-                    //dialog2.dispose();
-                    main.consoleLoading.setValue(0);
-                    main.consoleLoading.setVisible(false);
-                    main.consoleLoading.setIndeterminate(false);
-                    main.consoleLoading.setStringPainted(true);
-                    main.consoleText.setText("");
-                    main.consoleText.setVisible(false);
-                }   catch (InterruptedException ex) {
-                    Logger.getLogger(AdminMenusPanel.class.getName()).log(Level.SEVERE, null, ex);
-                }
-            }).start();
-    }*/
+   
     
     //setText the username from Auth 
     public void usernameVoidAdminM(String usernameStringAdminM) {
