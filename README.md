@@ -171,7 +171,7 @@ In short, the MIT License states:
 <br>
 
 
-## 🚀 **Download Installer (for Users)**
+## 🚀 **Download Installer (for Users)***
 <b>Download Installer of <i> Employee Payroll Management System </i> below </b>
 
 > | <b>Version</b> | <b>Description</b> | <b>Download</b> |
